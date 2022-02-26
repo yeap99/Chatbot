@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+    <category>
+        <pattern>owner</pattern>
+        <template>Yeap Kai Feng</template>
+    </category>
+    
+    <category>
+        <pattern>hi</pattern>
+        <template>Hi there! How can I help you?</template>
+    </category>
+    
+    <category>
+        <pattern>hi *</pattern>
+        <template>Hi there! How can I help you?</template>
+    </category>
+    
+    <category>
+        <pattern>hey</pattern>
+        <template>Heya! Anything to help?</template>
+    </category>
+
+    <category>
+        <pattern>hey *</pattern>
+        <template>Heya! Anything to help?</template>
+    </category>
+    
+</aiml>
